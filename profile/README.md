@@ -12,13 +12,6 @@ We’re not just building products; we’re shaping lasting digital legacies thr
 
 ---
 
-### Our Structure
-
-- **[Devmattic](https://devmattic.com)** — Engineering studio where craft meets precision.  
-  Building enduring, reliable systems through thoughtful design.
-
----
-
 ### Vision
 To craft enduring digital legacies — where code, design, and story converge.  
 We believe software is an art form, brands are vessels of meaning, and creation done with integrity endures beyond trends.
@@ -33,7 +26,7 @@ Typend exists to give ideas permanence — transforming sparks of inspiration in
 
 ### Twitter / X
 > Independent software house and brand foundry — uniting engineering and storytelling to build ideas that endure.  
-[@typend](https://x.com/typendfoundry)
+[@typendfoundry](https://x.com/typendfoundry)
 
 ---
 
